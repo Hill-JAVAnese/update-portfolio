@@ -20,8 +20,6 @@ export default function Hero() {
         className="text-xl"
       >
         Game enthusiast & student passionate about building cool stuff.
-        Have big passion to game and game developing.
-        Interested to expand around Web Developer as Fullstack.
       </motion.p>
     </section>
   );
