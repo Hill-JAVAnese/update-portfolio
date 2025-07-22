@@ -15,11 +15,11 @@ export default function Contact() {
         Contact Me
       </motion.h2>
       <div className="flex justify-center gap-6 text-3xl text-blue-600 dark:text-blue-400">
-        <a href="https://instagram.com/" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
-        <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"><FaTwitter /></a>
-        <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-        <a href="mailto:your@email.com"><FaEnvelope /></a>
+        <a href="https://www.instagram.com/hataka_1701/" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
+        <a href="https://x.com/Hill57060627" target="_blank" rel="noopener noreferrer"><FaTwitter /></a>
+        <a href="https://www.linkedin.com/in/muhammad-hasda-putra-dimyati-60ab3a35a/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+        <a href="https://github.com/Hill-JAVAnese/" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+        <a href="mailto:kometnusantaradev@email.com"><FaEnvelope /></a>
       </div>
     </section>
   );
