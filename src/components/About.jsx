@@ -20,6 +20,8 @@ export default function About() {
         transition={{ delay: 0.3, duration: 0.6 }}
       >
         I'm a passionate developer who enjoys working with React and creating immersive game projects. With a love for learning and pushing creative boundaries, I'm excited to share my portfolio with you!
+        Playing games is always and my fav for now is minecraft. 
+        Interested to be Fullstack Web Developer even still learning and still on basic level.
       </motion.p>
     </section>
   );

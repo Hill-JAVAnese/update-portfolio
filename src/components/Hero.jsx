@@ -11,7 +11,7 @@ export default function Hero() {
         transition={{ duration: 0.8 }}
         className="text-5xl font-bold mb-4"
       >
-        Hi, I'm Hill 👋
+        Hi, I'm Hasda 👋
       </motion.h1>
       <motion.p 
         initial={{ opacity: 0 }} 
@@ -19,7 +19,7 @@ export default function Hero() {
         transition={{ delay: 0.5, duration: 0.6 }}
         className="text-xl"
       >
-        Game developer & student passionate about building cool stuff.
+        Game enthusiast & student passionate about building cool stuff.
       </motion.p>
     </section>
   );
