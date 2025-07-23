@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const projects = [
   {
-    title: 'Sistem Diagnosa Penyakit',
+    title: 'Sistem Diagnosa Penyakit (Manusia)',
     desc: 'Sistem Diagnosa Penyakit menggunakan Python dan CSV sebagai dataset.',
     img: 'https://i.imgur.com/93Db0kx.png',
     link: 'https://web-production-cccc1.up.railway.app/',
