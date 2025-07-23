@@ -9,12 +9,12 @@ const projects = [
     link: 'https://web-production-cccc1.up.railway.app/',
   },
   {
-    title: '-',
+    title: 'Coming Soon...',
     desc: '-',
     img: 'https://via.placeholder.com/300x200',
   },
   {
-    title: '-',
+    title: 'Coming Soon...',
     desc: '-',
     img: 'https://via.placeholder.com/300x200',
   },
